@@ -1,0 +1,8 @@
+New York,0,true
+London,500,false
+Paris,1300,true
+Berlin,1750,false
+Tokyo,2950,true
+Sydney,4450,false
+Dubai,5150,true
+Singapore,5750,false

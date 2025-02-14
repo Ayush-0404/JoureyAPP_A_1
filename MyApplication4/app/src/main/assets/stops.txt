@@ -1,0 +1,8 @@
+New York, 500, Visa Required
+London, 1200, Visa Required
+Dubai, 1500, Not Required
+Mumbai, 800, Not Required
+Singapore, 1000, Visa Required
+Malaysia, 1800, Not Required
+Thailand, 1900, Not Required
+Kingston, 2000, Visa Required

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@android:color/darker_gray"
+    android:layout_margin="5dp">
+
+    <!-- Stop Name -->
+    <TextView
+        android:id="@+id/tvStopName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop Name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:padding="2dp"/>
+
+    <!-- Distance to Stop -->
+    <TextView
+        android:id="@+id/tvDistance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Distance: 0 km"
+        android:textSize="16sp"
+        android:padding="2dp"/>
+
+    <!-- Visa Requirement -->
+    <TextView
+        android:id="@+id/tvVisaRequirement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Visa: Not Required"
+        android:textSize="16sp"
+        android:padding="2dp"/>
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+New York,0,false
+London,5570,true
+Dubai,5500,true
+Delhi,2200,false
+Tokyo,5900,true
