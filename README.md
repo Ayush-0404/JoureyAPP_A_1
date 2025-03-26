@@ -14,13 +14,13 @@ There are **two versions** of the app:
 
 ## 🚀 Features
 
-✅ **User Journey Setup** – Enter a start location and destination.  
-✅ **Route Selection** – Choose from possible routes.  
-✅ **Dynamic Stop List** – Stops are loaded from `stops.txt` dynamically.  
-✅ **Distance Unit Toggle** – Switch between **KM** and **Miles**.  
-✅ **Progress Tracking** – A **progress bar** and text summary show remaining distance.  
-✅ **Visual Feedback for Stops** – Stops are **grayed out** when reached.  
-✅ **Reset Journey** – Restart the journey anytime.  
+ **User Journey Setup** – Enter a start location and destination.  
+ **Route Selection** – Choose from possible routes.  
+ **Dynamic Stop List** – Stops are loaded from `stops.txt` dynamically.  
+ **Distance Unit Toggle** – Switch between **KM** and **Miles**.  
+ **Progress Tracking** – A **progress bar** and text summary show remaining distance.  
+ **Visual Feedback for Stops** – Stops are **grayed out** when reached.  
+ **Reset Journey** – Restart the journey anytime.  
 
 ---
 
@@ -79,7 +79,7 @@ git checkout compose-version
 
 ## 🌟 App Versions
 
-### 🏰 XML & Kotlin Version (`xml-version` branch)
+###  XML & Kotlin Version (`xml-version` branch)
 
 #### 🔹 Implementation:
 Uses **XML layouts** for UI and **Kotlin** for logic and UI handling via `findViewById()`.
@@ -135,7 +135,7 @@ Each line represents:
 
 ---
 
-## 🛠️ Customization & Further Development
+##  Customization & Further Development
 
 🔹 **Enhance UI** – Improve styling, animations, or **Material 3** theming.  
 🔹 **Data Persistence** – Save progress using **Room DB** or **SharedPreferences**.  
