@@ -1,4 +1,4 @@
-# Multi-Stop Journey Tracker
+# Multi-Stop Flight Journey Tracker
 
 This project is a mobile app that tracks a **multi-stop journey**. The app displays **routes with stops**, visa requirements, **distance and time remaining**, and overall **journey progress**. 
 
