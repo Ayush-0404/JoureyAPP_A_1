@@ -31,7 +31,7 @@ This repository has **two main branches**:
 1. **`xml-version`** – Traditional XML UI with Kotlin.  
 2. **`compose-version`** – Jetpack Compose UI.  
 
-### 🏗️ Directory Structure (Jetpack Compose Version)
+###  Directory Structure (Jetpack Compose Version)
 app/
 └── src/
     └── main/
@@ -52,7 +52,7 @@ For **XML & Kotlin**, similar files exist with **activity XML layouts**.
 
 ## 🔧 Getting Started
 
-### 📌 Prerequisites
+###  Prerequisites
 
 - **Android Studio** (latest version recommended)
 - **Android SDK** (with correct minimum SDK)
@@ -123,7 +123,7 @@ Each line represents:
 
 ---
 
-## 🎮 Usage Instructions
+##  Usage Instructions
 
 1. **Launch the app** on an Android device or emulator.
 2. **Enter your journey details** (start and destination).
