@@ -144,7 +144,7 @@ Each line represents:
 
 --
 
-## 📞 Connect with Me
+## 📞 Connect Us
 
 [GitHub](#) | 
 
