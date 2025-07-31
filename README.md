@@ -146,18 +146,10 @@ Each line represents:
 
 ## 📞 Connect Us
 
-[GitHub](#) | 
+[GitHub](#) 
 
 ---
 
-## 📌 What’s Included:
-
-✔ **GitHub-friendly Markdown formatting**  
-✔ **All necessary project details**  
-✔ **Structured sections for readability**  
-✔ **Sample `stops.txt` data**  
-✔ **Installation and usage instructions**  
-✔ **Links for collaboration & contributions**
 
 
 
