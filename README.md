@@ -139,7 +139,7 @@ Each line represents:
 
 🔹 **Enhance UI** – Improve styling, animations, or **Material 3** theming.  
 🔹 **Data Persistence** – Save progress using **Room DB** or **SharedPreferences**.  
-🔹 **Real-time Navigation** – Integrate **Google Maps API** for live tracking.  
+🔹 **Real-time Navigation** – Integrate **Google Maps API** for live tracking. 
 🔹 **Testing** – Add **unit tests & UI tests** for reliability.  
 
 --
