@@ -144,7 +144,7 @@ Each line represents:
 
 --
 
-## 📞 Connect Us (github) 
+## 📞 Connect Us - (github) 
 
 [GitHub](#) 
 or email us at - ayush22125@iiitd.ac.in
