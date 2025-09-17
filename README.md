@@ -126,7 +126,7 @@ Each line represents:
 ##  Usage Instructions
 
 1. **Launch the app** on an Android device or emulator.
-2. **Enter your journey details** (start and destination).
+2. **Enter your journey details** start and destination.
 3. **Select a route** from the available options.
 4. **Track your journey progress**:
    - Tap **"Next Stop Reached"** to mark stops.
