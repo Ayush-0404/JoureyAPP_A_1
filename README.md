@@ -24,7 +24,7 @@ There are **two versions** of the app:
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure -
 
 This repository has **two main branches**:
 
