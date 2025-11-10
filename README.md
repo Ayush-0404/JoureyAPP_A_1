@@ -19,7 +19,7 @@ There are **two versions** of the app:
  **- Dynamic Stop List** – Stops are loaded from `stops.txt` dynamically.  
  **- Distance Unit Toggle** – Switch between **KM** and **Miles**.  
  **- Progress Tracking** – A **progress bar** and text summary show remaining distance.  
- **Visual Feedback for Stops** – Stops are **grayed out** when reached.  
+ **- Visual Feedback for Stops** – Stops are **grayed out** when reached.  
  **Reset Journey** – Restart the journey anytime.  
 
 ---
