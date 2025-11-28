@@ -12,7 +12,7 @@ There are **two versions** of the app:
 
 ---
 
-## 🚀 Features -
+## 🚀 Features 
 
  **- User Journey Setup** – Enter a start location and destination.  
  **- Route Selection** – Choose from possible routes.  
@@ -24,7 +24,7 @@ There are **two versions** of the app:
 
 ---
 
-## 📂 Project Structure -
+## 📂 Project Structure 
 
 This repository has **two main branches**:
 
