@@ -50,7 +50,7 @@ For **XML & Kotlin**, similar files exist with **activity XML layouts**.
 
 ---
 
-## 🔧 Getting Started -
+## 🔧 Getting Started 
 
 ###  Prerequisites
 
