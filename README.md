@@ -89,7 +89,7 @@ Uses **XML layouts** for UI and **Kotlin** for logic and UI handling via `findVi
 - `MainActivity.kt` – Entry point.
 - Adapter files for handling stop lists.
 
-### 🎨 Jetpack Compose Version (`compose-version` branch) - 
+### 🎨 Jetpack Compose Version (`compose-version` branch) 
 
 #### 🔹 Implementation:
 UI is fully built with **Jetpack Compose** for a modern, declarative UI experience.
