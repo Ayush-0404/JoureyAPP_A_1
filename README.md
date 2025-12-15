@@ -123,7 +123,7 @@ Each line represents:
 
 ---
 
-##  Usage Instructions
+##  Usage Instructions :
 
 1. **Launch the app** on an Android device or emulator.
 2. **Enter your journey details** start and destination.
