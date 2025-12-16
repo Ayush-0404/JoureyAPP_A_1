@@ -118,7 +118,7 @@ Stop4, 80, Visa Required
 Stop5, 120, No Visa
 ```
 
-Each line represents:
+Each line represents :
 - **Stop Name**, **Distance** (in KM), **Visa Requirement**
 
 ---
