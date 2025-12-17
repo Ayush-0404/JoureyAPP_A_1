@@ -135,7 +135,7 @@ Each line represents :
 
 ---
 
-##  Customization & Further Development
+##  Customization & Further Development :
 
 🔹 **Enhance UI** – Improve styling, animations, or **Material 3** theming.  
 🔹 **Data Persistence** – Save progress using **Room DB** or **SharedPreferences**.  
